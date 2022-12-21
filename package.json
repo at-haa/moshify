@@ -2,15 +2,21 @@
   "name": "moshify",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": ".htmlnanorc.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel ./index.html",
-    "build": "parcel build ./index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fateme1929/moshify.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fateme1929/moshify/issues"
+  },
+  "homepage": "https://github.com/fateme1929/moshify#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
   }
